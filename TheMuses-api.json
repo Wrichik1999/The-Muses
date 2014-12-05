@@ -1,0 +1,23 @@
+{
+  "name": "The Muses",
+  "url": "https://github.com/TheMuses",
+  "location": {
+    "city": "Basildon",
+    "country": "GB",
+    "lat": 39.90421,
+    "lon": 0.4623941,
+    "address": {
+      "Name": "Westcliff High School for Boys",
+      "Street": "Kenilworth Gardens",
+      "Zipcode": "SS00BP"
+    }
+  },
+  "contact": {
+    "email": "wrichikbiswas1999@gmail.com",
+    "googleplus": "https://plus.google.com/b/100965249292270651470/100965249292270651470/about?hl=en&service=PLUS"
+  },
+  "state": {
+    "lastchange": "2014-12-05T18:56:40.189Z"
+  },
+  "api": "1.0.0"
+}
